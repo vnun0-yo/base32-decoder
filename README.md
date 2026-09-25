@@ -1,7 +1,7 @@
 # base32-decoder
 this tool decodes Base32 you can input Base32-encoded text to decode it, or do the reverse input plain text and convert it into Base32.This tool decodes Base32; you can input Base32-encoded text to decode it, or do the reverse—input plain text and convert it into Base32.
 
-# The Tool by - Yen's
+# The Tool by - Yen
 
 ## Installation
 
@@ -75,4 +75,4 @@ cp Yen32Coder.py /usr/bin/Yen32Coder
 chmod +x /usr/bin/Yen32Coder
 ```
 
-## The Tool By - Yen's , nice day 
+## The Tool By - Yen , nice day 
